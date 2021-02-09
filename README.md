@@ -1,0 +1,2 @@
+# sentiment_analysis_of_hepsiburada_reviews
+hepsiburada reviews analysis with NLP
